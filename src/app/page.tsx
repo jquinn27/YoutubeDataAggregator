@@ -33,7 +33,7 @@ export default function Home() {
         </h1>
         <div className="py-8">
           <h2 className="text-black">
-            To begin, enter a channel's username below
+            To begin, enter a channels username below
           </h2>
           <div>
             <form className="flex pt-4 gap-4 flex-row" onSubmit={handleSubmit}>
